@@ -154,7 +154,7 @@ appUpdaterUtils.start();
 ![AppUpdater](https://raw.githubusercontent.com/javiersantos/AppUpdater/master/Screenshots/banner.png)
 
 ## License
-	Copyright 2016 Javier Santos
+	Copyright 2018 Shivaram Mahapatro
 	
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
